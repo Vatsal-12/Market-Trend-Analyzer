@@ -55,3 +55,9 @@ The dataset `retail_sales_dataset.csv` should include the following columns:
 
 ---
 ## Output
+<img width="798" height="500" alt="Image" src="https://github.com/user-attachments/assets/7f5b3f55-0d63-4009-bc3b-e54e16d12da6" />
+<img width="1196" height="758" alt="Image" src="https://github.com/user-attachments/assets/ee31fcc6-8a60-491e-aa3d-34fe9b354a0c" />
+<img width="745" height="681" alt="Image" src="https://github.com/user-attachments/assets/3835c225-d96a-4737-913e-5d7a2e9d6d30" />
+<img width="1183" height="732" alt="Image" src="https://github.com/user-attachments/assets/ac673f65-b585-4025-94cb-235314c5c918" />
+<img width="1257" height="753" alt="Image" src="https://github.com/user-attachments/assets/95a55049-cb01-44cf-911e-56332906a591" />
+<img width="509" height="96" alt="Image" src="https://github.com/user-attachments/assets/bf716dee-6368-47e7-baf1-5a3df5f28c36" />
